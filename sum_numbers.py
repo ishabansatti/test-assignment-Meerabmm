@@ -6,5 +6,3 @@ def sum_numbers(*args):
     # TODO: implement the logic
     total = sum(args)
     return total
-sum=sum_numbers(1,2,3,4)
-print(sum)
